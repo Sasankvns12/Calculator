@@ -21,9 +21,9 @@ body{
     margin-top: 10px;
     border-radius: 12px;
     margin-left: 280px;
-    color: white;
+    color: red;
     cursor: pointer;
-    background-color: blue;
+    background-color: green;
 }
 .tri-btn:hover{
     background-color: rgb(0, 14, 95);
@@ -33,9 +33,9 @@ body{
     height: 30px;   
     border-radius: 12px;
     margin-left: 280px;
-    color: white;
+    color: red;
     cursor: pointer;
-    background-color: blue;
+    background-color: green;
 }
 .cir-btn:hover{
     background-color: rgb(0, 14, 95);
